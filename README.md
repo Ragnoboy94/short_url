@@ -2,6 +2,7 @@
 Создание короткого url
 
 ![short_url](webp.webp)
+
 Настройка бд
 - host = localhost,
 - username = root,
